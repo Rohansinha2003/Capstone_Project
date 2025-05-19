@@ -1,0 +1,3 @@
+[submodule "movie-app-frontend"]
+	path = movie-app-frontend
+	url = https://github.com/amitshankhwar/movie-app-frontend.git
